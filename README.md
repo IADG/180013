@@ -1,5 +1,5 @@
 # Instructions
-1. Program in the assigned programming language (F #, Perl, Rust)
+1. Program in the assigned programming language (C++, JavaScript, Lua, C#, F#)
 2. The programs are located in the (source_code) folder.
 3. The code must be compiled on any operating system.
 4. The code is uploaded at https://github.com/upslp-teoriacomputacional/matricula
